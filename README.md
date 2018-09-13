@@ -1,5 +1,4 @@
-# entertain-me
+# EntertainMe
 Android application allowing movies and TV shows managing
 ## Credit
-Alborghetti Lucas
-Albuquerque Danny
+Alborghetti Lucas; Albuquerque Danny
