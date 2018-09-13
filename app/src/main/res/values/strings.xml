@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Entertain Me</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="tag_imageview">tag_image_view</string>
+
+    <string name="YOUTUBE_API_KEY">AIzaSyDk3q5utYWBsiigqcPX7JcOUoZyURRherU</string>
+    <string name="player_error">Error initializing YouTube player: %s</string>
+    <string name="seek_to">Jump To</string>
+    <string name="seek_to_hint">Seconds</string>
+    <string name="towatch_movies">Films à regarder</string>
+    <string name="popular_movies">Films populaires</string>
+    <string name="now_playing_movies">Films à l\'affiche</string>
+    <string name="upcoming_movies">Films à venir</string>
+    <string name="towatch_series">Séries à regarder</string>
+    <string name="popular_series">Séries populaires</string>
+    <string name="ontheair_movie">Séries en diffusion</string>
+    <string name="airingtoday_movie">Séries diffusées aujourd\'hui</string>
+</resources>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item android:title="Films">
+            <menu>
+                <item
+                    android:id="@+id/nav_movie_popular"
+                    android:icon="@drawable/ic_popular"
+                    android:title="Populaires" />
+                <item
+                    android:id="@+id/nav_movie_nowplaying"
+                    android:icon="@drawable/ic_now_playing"
+                    android:title="A l'affiche" />
+                <item
+                    android:id="@+id/nav_movie_upcoming"
+                    android:icon="@drawable/ic_upcoming"
+                    android:title="A venir" />
+            </menu>
+        </item>
+        <item android:title="Séries">
+            <menu>
+                <item
+                    android:id="@+id/nav_serie_popular"
+                    android:icon="@drawable/ic_popular"
+                    android:title="Populaires" />
+                <item
+                    android:id="@+id/nav_serie_ontheair"
+                    android:icon="@drawable/ic_now_playing"
+                    android:title="En diffusion" />
+                <item
+                    android:id="@+id/nav_serie_airingtoday"
+                    android:icon="@drawable/ic_upcoming"
+                    android:title="Diffusées aujourd'hui" />
+            </menu>
+        </item>
+        <item android:title="A regarder">
+            <menu>
+                <item
+                    android:id="@+id/nav_movie_towatch"
+                    android:icon="@drawable/ic_movies"
+                    android:title="Films" />
+                <item
+                    android:id="@+id/nav_serie_towatch"
+                    android:icon="@drawable/ic_series"
+                    android:title="Séries" />
+            </menu>
+        </item>
+    </group>
+</menu>
